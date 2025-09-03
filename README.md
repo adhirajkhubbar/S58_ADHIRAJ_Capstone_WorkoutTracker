@@ -2,6 +2,8 @@
 CAPSTONE PROJECT
 
 Title: Workout Tracker System
+
+
 Description: The workout tracker is a dedicated platform designed for individuals to manage their fitness journey. This system allows users to securely log in and track all aspects of their exercise routine. It offers a centralized place to store and access detailed records of each workout, including exercises performed, sets, reps, and progress over time.
 Features:
 Secure User Login: A secure login page where only the registered user can enter credentials to access their personal workout data. This ensures that all fitness information and progress are kept private.
